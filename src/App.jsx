@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 // import './App.css'
-import HotelForm from './components/hotelForm'
+import HotelForm from './components/HotelForm'
 import Hotels from './components/Hotels'
 
 function App() {
