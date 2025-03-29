@@ -39,7 +39,7 @@ const HotelForm = () => {
         
 
         try{
-            const response  = await fetch("http://localhost:3000/hotels",
+            const response  = await fetch("https://hotel-project-backend-git-main-tek-rajs-projects.vercel.app/hotels",
                 {
                     method: "POST",
                     headers: {
